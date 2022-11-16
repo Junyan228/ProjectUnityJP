@@ -1,0 +1,7 @@
+name: "unityJp"
+displayName: "Project Unity日本語化Mod"
+author: "ジュニャン"
+description: "大型modの「Project Unity」を日本語訳しました"
+version: "alpha-0.0.1"
+minGameVersion: 139
+hidden: true
